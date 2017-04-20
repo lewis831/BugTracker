@@ -1,7 +1,10 @@
 import { NgModule } from '@angular/core';
 
 @NgModule({
-  import: [ ],
+  imports: [ ],
   declarations: [ ],
-  
+  exports: [ ],
+  providers: [ ],
 })
+
+export class BugModule { }
