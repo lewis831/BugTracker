@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1056741-6013-4b99-aa8f-56b74509f0bf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/bugs/bug.module.js" afterPath="$PROJECT_DIR$/app/bugs/bug.module.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/bugs/bug.module.js.map" afterPath="$PROJECT_DIR$/app/bugs/bug.module.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/shared/shared.module.js.map" afterPath="$PROJECT_DIR$/app/shared/shared.module.js.map" />
-    </list>
+    <list default="true" id="f1056741-6013-4b99-aa8f-56b74509f0bf" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+              <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -357,7 +352,7 @@
       <workItem from="1494672652384" duration="337000" />
       <workItem from="1494673002975" duration="5000" />
       <workItem from="1494733933974" duration="1908000" />
-      <workItem from="1494736673303" duration="4444000" />
+      <workItem from="1494736673303" duration="4533000" />
     </task>
     <task id="LOCAL-00001" summary="Small update">
       <created>1494734870166</created>
@@ -370,7 +365,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6694000" />
+    <option name="totallyTimeSpent" value="6783000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="517" y="23" width="843" height="741" extended-state="0" />
@@ -630,7 +625,7 @@
     <entry file="file://$PROJECT_DIR$/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
           <folding />
         </state>
       </provider>
